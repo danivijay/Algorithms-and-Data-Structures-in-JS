@@ -1,6 +1,3 @@
-// in VSCode: Debug > Run without Debugging / Ctrl + F5
-// Output will be available in Debug Console
-
 var arr = [100, 3, 10, 2, 7, 8, 1, 5, 1];
 
 console.log("input:", arr);
